@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/janchilling?tab=repositories].(https://github.com/janchilling?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/janchilling?tab=repositories](https://github.com/janchilling?tab=repositories)
 
 - 📫 Reach me @ **janindupathi@gmail.com**
 

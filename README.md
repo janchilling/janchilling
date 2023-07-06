@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Transformers**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Transfomers**
 
 - 👨‍💻 All of my projects are available at [https://github.com/janchilling?tab=repositories](https://github.com/janchilling?tab=repositories)
 

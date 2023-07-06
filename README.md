@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Janindu Pathirana</h1>
 <h3 align="center">An undergraduate who is committed to being the best version of myself</h3>
 
-- 🔭 I’m currently working on a **Transformers**
+- 🔭 I’m currently working on a **Ivy open source issues**
 
 - 🌱 I’m currently learning **Transfomers**
 

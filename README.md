@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Ivy open source issues**
 
-- 🌱 I’m currently learning **Transfomers**
+- 🌱 I’m currently learning **Machine Learning Compilation**
 
 - 👨‍💻 All of my projects are available at [https://github.com/janchilling?tab=repositories](https://github.com/janchilling?tab=repositories)
 
